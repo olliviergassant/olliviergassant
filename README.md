@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **olliviergassant/olliviergassant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ollivier (Ollie for ease) 👋
+
+Nontraditional programmer: I studied **Exercise Science & Health Promotion** at Florida Atlantic University and am now pursuing a **Master's in Computer Science** at Johns Hopkins University.
+
+I'm focused on bridging the gap between **medicine, technology, and fitness**.
+
+### 🔧 What I'm working on
+- An RSA encryption implementation written in Assembly ([repo link](https://github.com/YOUR-USERNAME/REPO))
+- Learning **C** and **ARM Assembly**
+
+### 📷 Outside of code
+I'm a photographer, and my work has appeared in a couple of art exhibitions. See my current work at [olliviergassant.com](https://olliviergassant.com).
